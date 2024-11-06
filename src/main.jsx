@@ -13,6 +13,7 @@ import About from './Routes/About/About';
 import Destinations from './Routes/Destinations/Destinations';
 import ErrorPage from './Error/ErrorPage';
 import ContactUs from './Routes/ContactUs/ContactUs';
+import Review from './Routes/Review/Review';
 
 const router = createBrowserRouter([
   {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
     {
       path : 'contact',
       element: <ContactUs></ContactUs>
+    },
+    {
+      path : 'review',
+      element: <Review></Review>
     }
     ]
   },

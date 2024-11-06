@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "reviewer_name": "Ayesha Karim",
+      "email": "ayesha.karim@example.com",
+      "review_title": "Astonishing Natural Beauty!",
+      "rating": 5,
+      "review_content": "Visited the Sundarbans and was absolutely blown away by the mesmerizing mangrove forests and the majestic Bengal tigers. A must-visit for nature lovers!"
+    },
+    {
+      "id": 2,
+      "reviewer_name": "Fahim Ahmed",
+      "email": "fahim.ahmed@example.com",
+      "review_title": "Cultural Richness in Every Corner",
+      "rating": 4,
+      "review_content": "Exploring Old Dhaka was like stepping back in time. The architectural marvels and the bustling street markets made it a memorable experience."
+    },
+    {
+      "id": 3,
+      "reviewer_name": "Naznin Sultana",
+      "email": "naznin.sultana@example.com",
+      "review_title": "Breathtaking Views of Cox’s Bazar",
+      "rating": 5,
+      "review_content": "The world's longest natural sea beach did not disappoint. The sunsets were magical, and the seafood was delicious!"
+    },
+    {
+      "id": 4,
+      "reviewer_name": "Tanvir Rahman",
+      "email": "tanvir.rahman@example.com",
+      "review_title": "Stunning Tea Gardens of Sylhet",
+      "rating": 4,
+      "review_content": "The lush, green tea plantations were serene and picturesque. It’s a great place to unwind and take in the natural beauty."
+    },
+    {
+      "id": 5,
+      "reviewer_name": "Maruf Hasan",
+      "email": "maruf.hasan@example.com",
+      "review_title": "Enchanting Saint Martin’s Island",
+      "rating": 5,
+      "review_content": "The island’s clear blue waters and coral reefs were simply mesmerizing. A paradise for snorkeling and relaxing on the beach."
+    },
+    {
+      "id": 6,
+      "reviewer_name": "Sadia Hossain",
+      "email": "sadia.hossain@example.com",
+      "review_title": "Historical Wonder at Mahasthangarh",
+      "rating": 4,
+      "review_content": "The ancient ruins of Mahasthangarh offer a fascinating glimpse into the past. It’s a great spot for history enthusiasts."
+    },
+    {
+      "id": 7,
+      "reviewer_name": "Rakib Khan",
+      "email": "rakib.khan@example.com",
+      "review_title": "Adventure at Sajek Valley",
+      "rating": 5,
+      "review_content": "The valley is an adventure seeker's paradise. The sunrise views from the hills are unforgettable, and the hiking trails are thrilling."
+    },
+    {
+      "id": 8,
+      "reviewer_name": "Rini Akter",
+      "email": "rini.akter@example.com",
+      "review_title": "A Soulful Experience at Paharpur",
+      "rating": 4,
+      "review_content": "Exploring the ancient Buddhist monastery of Paharpur was spiritually uplifting. The architecture is grand and well-preserved."
+    },
+    {
+      "id": 9,
+      "reviewer_name": "Imran Sheikh",
+      "email": "imran.sheikh@example.com",
+      "review_title": "Wildlife Adventure at Lawachara",
+      "rating": 4,
+      "review_content": "Lawachara National Park is teeming with wildlife and rich flora. We even spotted the endangered hoolock gibbons during our trek."
+    },
+    {
+      "id": 10,
+      "reviewer_name": "Lamia Nahar",
+      "email": "lamia.nahar@example.com",
+      "review_title": "Mesmerized by Jaflong",
+      "rating": 5,
+      "review_content": "The stone quarry and the lush green landscapes at Jaflong were stunning. The crystal-clear river flowing between the hills was a sight to behold."
+    },
+    {
+      "id": 11,
+      "reviewer_name": "Shahidul Islam",
+      "email": "shahidul.islam@example.com",
+      "review_title": "Peaceful Retreat at Kuakata",
+      "rating": 4,
+      "review_content": "Watching the sunrise and sunset from the same beach was an unforgettable experience. Kuakata is perfect for a tranquil getaway."
+    },
+    {
+      "id": 12,
+      "reviewer_name": "Meherin Yasmin",
+      "email": "meherin.yasmin@example.com",
+      "review_title": "Exploring the Beauty of Rangamati",
+      "rating": 5,
+      "review_content": "The Kaptai Lake in Rangamati was spectacular. We enjoyed a boat ride and marveled at the scenic beauty of the surrounding hills."
+    }
+  ]
+  
