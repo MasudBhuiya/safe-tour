@@ -80,7 +80,7 @@ const Blog = () => {
 
             {/* Featured Articles Section */}
             <section className="mb-12">
-                <h2 className="text-3xl font-semibold text-white mb-6 text-center">Featured Insights</h2>
+                <h2 className="text-3xl font-semibold  mb-6 text-center">Featured Insights</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {blogPosts.slice(0, 2).map((post, index) => (
                         <div
@@ -101,7 +101,7 @@ const Blog = () => {
 
             {/* Blog Grid Section */}
             <section className="mb-12">
-                <h2 className="text-3xl font-semibold text-white mb-6 text-center">Latest Articles</h2>
+                <h2 className="text-3xl font-semibold  mb-6 text-center">Latest Articles</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                     {blogPosts.map((post, index) => (
                         <div
@@ -143,14 +143,14 @@ const Blog = () => {
             </section>
 
             {/* Popular Topics Section */}
-            <section className="text-center">
-                <h2 className="text-3xl font-semibold text-white mb-6">Popular Topics</h2>
+            <section className="text-center mt-20">
+                <h2 className="text-3xl font-semibold  mb-6">Popular Topics</h2>
                 <div className="flex flex-wrap gap-4 justify-center">
                     {['Family Adventures', 'Travel Safety', 'Eco-Friendly Destinations', 'Wellness Tips', 'Solo Travel'].map(
                         (topic, index) => (
                             <button
                                 key={index}
-                                className="bg-orange-500 text-white px-6 py-2 rounded-full font-semibold hover:bg-gray-100 transition duration-300"
+                                className="bg-orange-500 text-white px-6 py-2 rounded-full font-semibold hover:bg-orange-400 transition duration-300"
                             >
                                 {topic}
                             </button>
