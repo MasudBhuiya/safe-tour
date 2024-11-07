@@ -28,6 +28,7 @@ const Navbar = () => {
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/destinations'>Destinatios</Link></li>
         <li><Link to='/review'>Review</Link></li>
+        <li><Link to='/alltour'>All Tour</Link></li>
         <li><Link to='/blog'>Blog</Link></li>
       </ul>
     </div>
@@ -39,11 +40,12 @@ const Navbar = () => {
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/destinations'>Destinatios</Link></li>
         <li><Link to='/review'>Review</Link></li>
+        <li><Link to='/alltour'>All Tour</Link></li>
         <li><Link to='/blog'>Blog</Link></li>
     </ul>
   </div>
   <div className="navbar-end">
-    <Link to="/contact" className="btn bg-sky-400 text-white font-bold">Contact us</Link>
+    <Link to="/contact" className="btn bg-sky-400 text-white font-bold border-none">Contact us</Link>
   </div>
 </div>
     </div>

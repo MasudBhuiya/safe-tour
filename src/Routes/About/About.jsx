@@ -36,6 +36,16 @@ const About = () => {
                     </div>
                 </section>
 
+                <section>
+                    <h1 className='text-4xl font-bold mb-5 mt-28'>What We Do</h1>
+                    <p>Tours and Trips Bangladesh is a local tour operator in Bangladesh with vision to provide the best possible tourism solutions in a smooth way for our valued guests while having a Vacation in Bangladesh. We are committed to provide our guests the Bangladesh tour Packages and also to offer our Bangladesh Budget tour Packages and to give you best Bangladesh holiday packages. Our holiday packages in Bangladesh are design to give you real Bangladesh. Holiday tour in Bangladesh will bring you close to people and you while you travel in Bangladesh you will always want to come back again. We offer the cheap tour package in Bangladesh that will fit in your budget. Our tours are guided tour in Bangladesh to make thing smooth also you can hire transportations only. We do Rocket Steamer and Back water tour to Barisal Floating Market. We offer unforgettable tour to Mangrove Sunderban .</p>
+                </section>
+                <section>
+                    <h1 className='text-4xl font-bold mb-5 mt-10'> Responsible Tourism</h1>
+                    <p className='mb-4'>Responsible tourism is about being conscious travelers who positively impact the places we visit. It recognizes that our actions have consequences and aims to minimize any negative effects on local communities, cultures, and ecosystems. For instance, respecting wildlife by observing from a distance rather than interacting directly ensures that natural habitats remain undisturbed and animals remain safe. Additionally, opting for eco-friendly accommodations that prioritize sustainable practices like solar power, water conservation, and waste reduction supports environmental protection.</p>
+                    <p>Another key aspect is promoting education and awareness among travelers. Learning about the history and heritage of a destination fosters appreciation and respect, reducing the likelihood of harmful behavior. By choosing tour operators and travel companies that prioritize responsible tourism, you contribute to a global movement towards ethical and sustainable travel. This approach ensures that generations to come can continue to enjoy these unique places, keeping their beauty and cultural significance intact. Responsible tourism is ultimately about creating meaningful travel experiences that benefit both visitors and local hosts.</p>
+                </section>
+
                 <ChooseUs></ChooseUs>
 
                 {/* tour guide section  */}

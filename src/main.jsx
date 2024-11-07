@@ -14,6 +14,8 @@ import Destinations from './Routes/Destinations/Destinations';
 import ErrorPage from './Error/ErrorPage';
 import ContactUs from './Routes/ContactUs/ContactUs';
 import Review from './Routes/Review/Review';
+import AllTour from './Routes/Home/AllTour';
+import AllTours from './Routes/AllTours/AllTours';
 
 const router = createBrowserRouter([
   {
@@ -40,6 +42,10 @@ const router = createBrowserRouter([
     {
       path : 'review',
       element: <Review></Review>
+    },
+    {
+      path : 'alltour',
+      element: <AllTours></AllTours>
     }
     ]
   },
