@@ -16,6 +16,7 @@ import ContactUs from './Routes/ContactUs/ContactUs';
 import Review from './Routes/Review/Review';
 import AllTour from './Routes/Home/AllTour';
 import AllTours from './Routes/AllTours/AllTours';
+import Blog from './Routes/Blog/Blog';
 
 const router = createBrowserRouter([
   {
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
     {
       path : 'alltour',
       element: <AllTours></AllTours>
+    },
+    {
+      path : 'blog',
+      element: <Blog></Blog>
     }
     ]
   },

@@ -19,7 +19,7 @@ const Destinations = () => {
                 <div className=""></div>
                 <div className="hero-content text-orange-500 text-center">
                     <div className="max-w-md">
-                        <h1 className="mb-5 text-5xl md:text-8xl font-bold">Destinations</h1>
+                        <h1 className="mb-5 text-5xl md:text-7xl font-bold">Destinations</h1>
                         <p className='text-xl text-white'>Explore Tours By Destinations</p>
                     </div>
                 </div>

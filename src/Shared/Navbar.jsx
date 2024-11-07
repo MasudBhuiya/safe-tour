@@ -23,7 +23,7 @@ const Navbar = () => {
       </div>
       <ul
         tabIndex={0}
-        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 font-semibold shadow">
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/destinations'>Destinatios</Link></li>
@@ -35,7 +35,7 @@ const Navbar = () => {
     <a className="btn btn-ghost text-xl "><span className="font-bold bg-orange-500 rounded-full px-3 py-2 text-white">ST</span> Safe Tour.</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
+    <ul className="menu menu-horizontal font-semibold px-1">
     <li><Link to='/'>Home</Link></li>
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/destinations'>Destinatios</Link></li>

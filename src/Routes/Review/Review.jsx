@@ -39,7 +39,7 @@ const Review = () => {
                 <div className=""></div>
                 <div className="hero-content text-orange-600 text-center">
                     <div className="max-w-md">
-                        <h1 className="mb-5 text-5xl md:text-8xl font-bold">Review</h1>
+                        <h1 className="mb-5 text-5xl md:text-7xl font-bold">Review</h1>
                     </div>
                 </div>
             </div>

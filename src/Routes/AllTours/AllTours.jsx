@@ -7,12 +7,12 @@ const AllTours = () => {
       <div
                 className="hero h-72 sm:min-h-screen w-full"
                 style={{
-                    backgroundImage: "url(https://img.freepik.com/free-photo/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1356.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid)",
+                    backgroundImage: "url(https://img.freepik.com/premium-photo/couple-standing-mountain_46740-1159.jpg?w=740)",
                 }}>
                 <div className=""></div>
                 <div className="hero-content text-orange-600 text-center">
                     <div className="max-w-md">
-                        <h1 className="mb-5 text-5xl md:text-8xl font-bold">All Tours</h1>
+                        <h1 className="mb-5 text-5xl md:text-7xl font-bold">All Tours</h1>
                     </div>
                 </div>
             </div>
