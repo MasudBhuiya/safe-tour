@@ -1,0 +1,1272 @@
+
+[
+    {
+        "id": 1,
+        "name": "Sundarbans Mangrove Forest",
+        "image": "https://example.com/sundarbans.jpg",
+        "duration": "3-5 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Largest mangrove forest in the world",
+            "Home to the Bengal tiger",
+            "UNESCO World Heritage Site"
+        ],
+        "about": "The Sundarbans, a UNESCO World Heritage Site, is the largest mangrove forest on Earth, stretching across Bangladesh and India. It is home to a wide variety of wildlife, including the famous Bengal tiger, spotted deer, crocodiles, and a rich diversity of bird species. The area is crisscrossed by a complex network of rivers and tidal waterways, making it a paradise for nature lovers and wildlife enthusiasts.",
+        "location": "Khulna Division, Bangladesh",
+        "bestTimeToTravel": "November to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Boat tours from Khulna or Mongla",
+            "Private or shared car to Khulna",
+            "Domestic flights to Jessore, then drive to Khulna"
+        ],
+        "wear": [
+            "Comfortable and breathable clothing",
+            "Hats and sunglasses",
+            "Insect repellent",
+            "Sturdy walking shoes"
+        ],
+        "included": [
+            "Guided boat tours",
+            "Meals as per itinerary",
+            "Accommodation on the boat or eco-lodges",
+            "Entry fees to the Sundarbans forest"
+        ],
+        "notIncluded": [
+            "Personal expenses",
+            "Tips for guides",
+            "Travel insurance",
+            "Transport to Khulna"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Kotka Beach",
+                "image": "https://example.com/kotka_beach.jpg"
+            },
+            {
+                "name": "Hiron Point",
+                "image": "https://example.com/hiron_point.jpg"
+            },
+            {
+                "name": "Dublar Char Island",
+                "image": "https://example.com/dublar_char.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "John Doe",
+                "rating": 5,
+                "comment": "An incredible experience! The wildlife and tranquility of Sundarbans are unmatched."
+            },
+            {
+                "reviewer": "Jane Smith",
+                "rating": 4,
+                "comment": "Amazing trip! The boat tour was very well organized, though the heat was intense."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Cox's Bazar Beach",
+        "image": "https://example.com/coxs_bazar.jpg",
+        "duration": "2-3 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "World's longest natural sandy beach",
+            "Stunning sunsets and sea views",
+            "Popular tourist destination in Bangladesh"
+        ],
+        "about": "Cox's Bazar, known for having the longest unbroken sandy beach in the world, is a popular tourist destination in Bangladesh. Stretching over 120 kilometers, the beach offers spectacular sea views, golden sand, and a variety of water activities. The town is bustling with seafood restaurants, and nearby attractions like Himchari National Park, Inani Beach, and the vibrant Burmese Market are worth exploring.",
+        "location": "Cox's Bazar District, Bangladesh",
+        "bestTimeToTravel": "October to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Direct flights from Dhaka to Cox's Bazar",
+            "Buses from Dhaka, Chittagong, and other cities",
+            "Private or rental cars"
+        ],
+        "wear": [
+            "Light and airy clothing",
+            "Beachwear",
+            "Sunscreen and sunglasses",
+            "Flip-flops or sandals"
+        ],
+        "included": [
+            "Accommodation",
+            "Breakfasts",
+
+
+"Beach activities (if mentioned in the package)",
+            "Local sightseeing tours"
+        ],
+        "notIncluded": [
+            "Lunch and dinner",
+            "Personal expenses",
+            "Beach equipment rentals",
+            "Additional excursions"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Himchari National Park",
+                "image": "https://example.com/himchari.jpg"
+            },
+            {
+                "name": "Inani Beach",
+                "image": "https://example.com/inani_beach.jpg"
+            },
+            {
+                "name": "Burmese Market",
+                "image": "https://example.com/burmese_market.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Alex Turner",
+                "rating": 4.5,
+                "comment": "Loved the vibrant beach life and the serene surroundings. A must-visit for beach lovers!"
+            },
+            {
+                "reviewer": "Maria Khan",
+                "rating": 4,
+                "comment": "Beautiful beach with plenty of activities, though it gets crowded during peak season."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Srimangal",
+        "image": "https://example.com/srimangal.jpg",
+        "duration": "2 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Lush tea gardens",
+            "Lawachara National Park",
+            "Traditional 7-layer tea"
+        ],
+        "about": "Srimangal, the tea capital of Bangladesh, is famous for its rolling tea gardens, lush green hills, and a tranquil ambiance. Visitors can explore the picturesque tea estates, learn about the tea-making process, and sip the unique 7-layer tea. Nature enthusiasts will enjoy a visit to Lawachara National Park, which is home to a variety of wildlife, including endangered species like the Hoolock gibbons.",
+        "location": "Moulvibazar District, Sylhet Division",
+        "bestTimeToTravel": "September to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Train from Dhaka to Srimangal",
+            "Buses and private cars",
+            "Domestic flights to Sylhet, then drive to Srimangal"
+        ],
+        "wear": [
+            "Comfortable walking shoes",
+            "Light and breathable clothing",
+            "Rain jacket (especially during the monsoon)"
+        ],
+        "included": [
+            "Accommodation",
+            "Guided tours of tea gardens",
+            "Lawachara National Park entry fees",
+            "Breakfasts"
+        ],
+        "notIncluded": [
+            "Lunch and dinner",
+            "Bicycle rentals",
+            "Personal shopping expenses",
+            "Transport to Srimangal"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Lawachara National Park",
+                "image": "https://example.com/lawachara.jpg"
+            },
+            {
+                "name": "Tea Gardens",
+                "image": "https://example.com/tea_gardens.jpg"
+            },
+            {
+                "name": "Madhabkunda Waterfall",
+                "image": "https://example.com/madhabkunda.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Emily Watson",
+                "rating": 5,
+                "comment": "A serene and relaxing place with breathtaking tea gardens. Perfect for a short getaway!"
+            },
+            {
+                "reviewer": "Liam Brown",
+                "rating": 4,
+                "comment": "The tea gardens are stunning, but watch out for the leeches in the rainy season."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Saint Martin's Island",
+        "image": "https://example.com/saint_martins.jpg",
+        "duration": "1-2 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Coral island with white sandy beaches",
+
+
+"Crystal-clear turquoise waters",
+            "Fresh seafood and local delicacies"
+        ],
+        "about": "Saint Martin's Island is Bangladesh's only coral island, known for its white sandy beaches, crystal-clear waters, and vibrant marine life. This small island offers a tranquil escape from the bustling mainland. Visitors can enjoy snorkeling, exploring the local markets, and tasting the fresh seafood, especially the popular grilled fish dishes. The island's natural beauty and the simplicity of island life make it a perfect destination for relaxation and adventure.",
+        "location": "Cox's Bazar District, Bangladesh",
+        "bestTimeToTravel": "November to February",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Ferry from Teknaf to Saint Martin's Island",
+            "Buses from Dhaka or Chittagong to Teknaf"
+        ],
+        "wear": [
+            "Light and comfortable beachwear",
+            "Sunscreen and a wide-brimmed hat",
+            "Snorkeling gear (optional)"
+        ],
+        "included": [
+            "Ferry tickets",
+            "Accommodation",
+            "Guided tours (if booked)"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Water sports equipment rentals",
+            "Travel insurance"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Chera Dwip",
+                "image": "https://example.com/chera_dwip.jpg"
+            },
+            {
+                "name": "Local Fish Market",
+                "image": "https://example.com/fish_market.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Nina Ali",
+                "rating": 4.5,
+                "comment": "A piece of paradise! The island is beautiful and perfect for a laid-back holiday."
+            },
+            {
+                "reviewer": "Khalid Rahman",
+                "rating": 4,
+                "comment": "Stunning scenery, but it gets crowded during peak season."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Rangamati",
+        "image": "https://example.com/rangamati.jpg",
+        "duration": "2-3 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Kaptai Lake",
+            "Tribal culture and handicrafts",
+            "Suspension bridge"
+        ],
+        "about": "Rangamati, known as the 'Lake City' of Bangladesh, is a beautiful hill district surrounded by lush green hills and Kaptai Lake. The serene lake offers boat rides with scenic views, and visitors can learn about the tribal culture at the local markets. The suspension bridge, Chakma Rajbari, and Rajban Vihara are notable attractions.",
+        "location": "Chittagong Hill Tracts, Bangladesh",
+        "bestTimeToTravel": "October to April",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Bus or private car from Chittagong",
+            "Local boats for exploring Kaptai Lake"
+        ],
+        "wear": [
+            "Comfortable outdoor clothing",
+            "Hiking boots or sturdy shoes",
+            "Light rain jacket (during monsoon season)"
+        ],
+        "included": [
+            "Boat ride on Kaptai Lake",
+            "Guided sightseeing tours",
+            "Accommodation"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Cultural show tickets"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Kaptai Lake",
+                "image": "https://example.com/kaptai_lake.jpg"
+            },
+            {
+                "name": "Tribal Markets",
+                "image": "https://example.com/tribal_market.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Sofia Rahman",
+                "rating": 5,
+                "comment": "A peaceful place to connect with nature. The boat ride on Kaptai Lake was mesmerizing!"
+            },
+            {
+                "reviewer": "Hasan Ahmed",
+
+
+"rating": 4,
+                "comment": "Loved the cultural vibe and the scenic beauty. The markets are a must-visit!"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bandarban",
+        "image": "https://example.com/bandarban.jpg",
+        "duration": "3-4 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Boga Lake",
+            "Nilgiri and Meghla tourism complex",
+            "Trekking and tribal experiences"
+        ],
+        "about": "Bandarban is a hill district in southeastern Bangladesh, known for its stunning natural beauty. The district is home to the highest peaks in Bangladesh and offers trekking opportunities, lush forests, and serene lakes. Visitors can trek to Boga Lake, visit the Nilgiri hills for breathtaking views, and explore the tribal culture in this picturesque region.",
+        "location": "Chittagong Hill Tracts, Bangladesh",
+        "bestTimeToTravel": "October to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Bus or private car from Chittagong",
+            "Local jeeps for exploring the hills"
+        ],
+        "wear": [
+            "Sturdy hiking boots",
+            "Warm clothing for higher altitudes",
+            "Rain gear"
+        ],
+        "included": [
+            "Accommodation",
+            "Guided treks",
+            "Local transport"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Trekking equipment"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Boga Lake",
+                "image": "https://example.com/boga_lake.jpg"
+            },
+            {
+                "name": "Nilgiri Hills",
+                "image": "https://example.com/nilgiri.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Ayesha Karim",
+                "rating": 5,
+                "comment": "Bandarban is a trekker's paradise! The views from Nilgiri are simply out of this world."
+            },
+            {
+                "reviewer": "Zayed Khan",
+                "rating": 4,
+                "comment": "Great for adventure lovers. The local food is delicious, too!"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sylhet",
+        "image": "https://example.com/sylhet.jpg",
+        "duration": "2-3 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Tea gardens",
+            "Ratargul Swamp Forest",
+            "Jaflong and waterfalls"
+        ],
+        "about": "Sylhet is a region in northeastern Bangladesh known for its lush tea gardens, waterfalls, and diverse natural attractions. Ratargul Swamp Forest, Bangladesh’s only freshwater swamp forest, offers a unique experience. Jaflong, with its scenic beauty and river stone collection, is another major highlight. Visitors can also explore the numerous tea estates scattered throughout the region.",
+        "location": "Sylhet Division, Bangladesh",
+        "bestTimeToTravel": "September to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Flights from Dhaka to Sylhet",
+            "Trains and buses from major cities"
+        ],
+        "wear": [
+            "Comfortable clothing",
+            "Waterproof shoes for swamp tours",
+            "Rain gear"
+        ],
+        "included": [
+            "Accommodation",
+            "Guided swamp forest tour",
+            "Sightseeing tours"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Boat rentals"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Ratargul Swamp Forest",
+                "image": "https://example.com/ratargul.jpg"
+            },
+            {
+                "name": "Jaflong",
+                "image": "https://example.com/jaflong.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Farhan Sheikh",
+
+
+"rating": 4.5,
+                "comment": "A beautiful area with so much to explore. The swamp forest was a unique experience!"
+            },
+            {
+                "reviewer": "Nadia Islam",
+                "rating": 4,
+                "comment": "Sylhet's tea gardens are stunning. Great for a weekend escape."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Paharpur Buddhist Monastery",
+        "image": "https://example.com/paharpur.jpg",
+        "duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "UNESCO World Heritage Site",
+            "Largest Buddhist monastery in South Asia",
+            "Ancient architecture and history"
+        ],
+        "about": "Paharpur Buddhist Monastery, also known as Somapura Mahavihara, is a UNESCO World Heritage Site and the largest Buddhist monastery in South Asia. It dates back to the 8th century and showcases the rich architectural heritage of ancient Bengal. The ruins spread over a vast area, with intricate terracotta plaques depicting scenes from everyday life and religious motifs.",
+        "location": "Naogaon District, Bangladesh",
+        "bestTimeToTravel": "October to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses from Dhaka or Rajshahi",
+            "Private cars or local transport"
+        ],
+        "wear": [
+            "Comfortable clothing",
+            "Walking shoes",
+            "Sun protection (hats and sunscreen)"
+        ],
+        "included": [
+            "Entry fees",
+            "Guided tour",
+            "Transportation from nearby cities"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Souvenirs"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Ruins of Somapura Mahavihara",
+                "image": "https://example.com/somapura.jpg"
+            },
+            {
+                "name": "Local Museum",
+                "image": "https://example.com/museum.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Kevin Brown",
+                "rating": 4.5,
+                "comment": "Fascinating historical site! A must-visit for history buffs and culture enthusiasts."
+            },
+            {
+                "reviewer": "Samina Hossain",
+                "rating": 4,
+                "comment": "The architecture is incredible, but the site needs better maintenance."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Kuakata",
+        "image": "https://example.com/kuakata.jpg",
+        "duration": "2 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Panoramic sea beach",
+            "Unique sunrise and sunset views",
+            "Local Rakhine community culture"
+        ],
+        "about": "Kuakata, known as the 'Daughter of the Sea,' offers one of the most stunning panoramic sea beaches in Bangladesh. Visitors can enjoy the unique experience of seeing both the sunrise and sunset over the Bay of Bengal from the same beach. Besides the beach, travelers can explore the local Rakhine community, visit the Kuakata Buddhist Temple, and witness the serene beauty of the mangrove forest in Fatrar Char.",
+        "location": "Patuakhali District, Bangladesh",
+        "bestTimeToTravel": "October to April",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Direct buses from Dhaka to Kuakata",
+            "Speedboats from Barisal"
+        ],
+        "wear": [
+            "Beachwear and light clothing",
+            "Comfortable sandals",
+            "Sunscreen and sunglasses"
+        ],
+        "included": [
+            "Accommodation",
+            "Beachside activities",
+            "Breakfast"
+        ],
+        "notIncluded": [
+            "Meals (except breakfast)",
+            "Personal expenses",
+            "Boat ride fees"
+        ],
+        "spotsGoingPlaces": [
+            {
+
+
+"name": "Kuakata Beach",
+                "image": "https://example.com/kuakata_beach.jpg"
+            },
+            {
+                "name": "Buddhist Temple",
+                "image": "https://example.com/buddhist_temple.jpg"
+            },
+            {
+                "name": "Fatrar Char",
+                "image": "https://example.com/fatrar_char.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Arif Jahan",
+                "rating": 4.5,
+                "comment": "The sunrise and sunset views were breathtaking. Truly a peaceful getaway!"
+            },
+            {
+                "reviewer": "Lily Evans",
+                "rating": 4,
+                "comment": "Beautiful beach, though it can get crowded on weekends. Great seafood!"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Bagerhat",
+        "image": "https://example.com/bagerhat.jpg",
+        "duration": "1-2 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "UNESCO World Heritage Site",
+            "Sixty Dome Mosque",
+            "Historic Islamic architecture"
+        ],
+        "about": "Bagerhat is a historic city known for its mosques and Islamic architecture from the 15th century. The city, founded by Turkish general Khan Jahan Ali, is home to the famous Sixty Dome Mosque (Shat Gambuj Masjid), a UNESCO World Heritage Site. Other notable sites include the Nine Dome Mosque, Khan Jahan Ali's Tomb, and the picturesque Ghora Dighi Lake.",
+        "location": "Bagerhat District, Khulna Division",
+        "bestTimeToTravel": "November to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses from Khulna or Dhaka",
+            "Private car or hired vehicle"
+        ],
+        "wear": [
+            "Modest clothing (for visiting mosques)",
+            "Comfortable walking shoes",
+            "Sun hat"
+        ],
+        "included": [
+            "Entry fees to historical sites",
+            "Guided tour",
+            "Local transportation"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Souvenirs",
+            "Personal expenses"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Sixty Dome Mosque",
+                "image": "https://example.com/sixty_dome.jpg"
+            },
+            {
+                "name": "Khan Jahan Ali's Tomb",
+                "image": "https://example.com/khan_tomb.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Mohammad Ali",
+                "rating": 4.5,
+                "comment": "The architecture is stunning and full of history. Well worth the visit!"
+            },
+            {
+                "reviewer": "Jessica Park",
+                "rating": 4,
+                "comment": "Fascinating historical site. Remember to dress modestly when visiting the mosques."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Maheshkhali Island",
+        "image": "https://example.com/maheshkhali.jpg",
+        "duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Scenic island views",
+            "Adinath Temple",
+            "Salt fields and mangrove forests"
+        ],
+        "about": "Maheshkhali is a beautiful island off the coast of Cox's Bazar, known for its scenic views, mangrove forests, and salt fields. The island's main attraction is the Adinath Temple, a Hindu temple dedicated to Lord Shiva, located atop a hill. Visitors can also explore the local markets and experience the traditional life of the islanders.",
+        "location": "Cox's Bazar District, Bangladesh",
+        "bestTimeToTravel": "November to February",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Ferry from Cox's Bazar",
+            "Local boats and auto-rickshaws on the island"
+        ],
+        "wear": [
+            "Comfortable and lightweight clothing",
+
+
+"Sturdy sandals or walking shoes",
+            "Sun protection"
+        ],
+        "included": [
+            "Ferry ride",
+            "Guided tour of the temple and salt fields",
+            "Local transportation on the island"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Temple donation"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Adinath Temple",
+                "image": "https://example.com/adinath_temple.jpg"
+            },
+            {
+                "name": "Salt Fields",
+                "image": "https://example.com/salt_fields.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Sunil Barman",
+                "rating": 4,
+                "comment": "A peaceful island with great views and cultural significance. Loved the temple!"
+            },
+            {
+                "reviewer": "Hannah Lee",
+                "rating": 3.5,
+                "comment": "Interesting place to visit, but be prepared for the heat and a lot of walking."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Sonargaon",
+        "image": "https://example.com/sonargaon.jpg",
+        "duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Historic Panam City",
+            "Folk Art Museum",
+            "Ancient architecture"
+        ],
+        "about": "Sonargaon, one of the oldest capitals of Bengal, is a historic city that offers a glimpse into Bangladesh’s rich cultural heritage. The main attractions are Panam City, a once-thriving ancient trade center, and the Folk Art Museum, which showcases traditional crafts. Visitors can explore the ruins of Panam City and learn about the area's history through the museum's exhibits.",
+        "location": "Narayanganj District, Bangladesh",
+        "bestTimeToTravel": "October to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses or private cars from Dhaka",
+            "Local transport within Sonargaon"
+        ],
+        "wear": [
+            "Casual and modest clothing",
+            "Comfortable walking shoes",
+            "Hat and sunscreen"
+        ],
+        "included": [
+            "Entry tickets to museums",
+            "Guided tour of Panam City",
+            "Local transportation"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Souvenirs",
+            "Personal expenses"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Panam City",
+                "image": "https://example.com/panam_city.jpg"
+            },
+            {
+                "name": "Folk Art Museum",
+                "image": "https://example.com/folk_art_museum.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Rachel Green",
+                "rating": 4.5,
+                "comment": "A wonderful place full of history! The architecture of Panam City is fascinating."
+            },
+            {
+                "reviewer": "Rafiq Anwar",
+                "rating": 4,
+                "comment": "Loved exploring the old streets. Great for history enthusiasts and photographers."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Cox's Bazar",
+        "image": "https://example.com/coxs_bazar.jpg",
+        "duration": "3-4 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Longest unbroken sandy sea beach",
+            "Marine drive and sunset views",
+            "Inani and Himchari beaches"
+        ],
+        "about": "Cox's Bazar is renowned for having the world's longest natural sandy beach, stretching over 120 km along the Bay of Bengal. It’s a popular destination for beach lovers, offering breathtaking sunsets, surfing opportunities, and stunning coastal drives. The nearby Inani and Himchari beaches are also worth visiting, providing serene and picturesque views.",
+
+
+"location": "Cox's Bazar District, Bangladesh",
+        "bestTimeToTravel": "November to February",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Flights from Dhaka to Cox's Bazar",
+            "Buses from Dhaka and Chittagong"
+        ],
+        "wear": [
+            "Light, casual clothing",
+            "Beachwear",
+            "Sunscreen and sunglasses"
+        ],
+        "included": [
+            "Accommodation",
+            "Beach activities",
+            "Local sightseeing"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Water sports fees"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Inani Beach",
+                "image": "https://example.com/inani_beach.jpg"
+            },
+            {
+                "name": "Himchari Waterfall",
+                "image": "https://example.com/himchari.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Fahim Rashid",
+                "rating": 5,
+                "comment": "Absolutely loved the long stretches of sand and the stunning sunsets. A must-visit!"
+            },
+            {
+                "reviewer": "Emily Watson",
+                "rating": 4.5,
+                "comment": "Beautiful beach but can be quite crowded during peak season."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Sundarbans",
+        "image": "https://example.com/sundarbans.jpg",
+        "duration": "3 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "World’s largest mangrove forest",
+            "Royal Bengal Tigers",
+            "Wildlife safari and bird watching"
+        ],
+        "about": "The Sundarbans, a UNESCO World Heritage Site, is the largest mangrove forest in the world and home to the majestic Royal Bengal Tiger. The forest spans the delta of the Ganges, Brahmaputra, and Meghna rivers, offering a diverse ecosystem with exotic wildlife. Visitors can embark on boat safaris, explore the mangroves, and enjoy bird watching in this biodiversity hotspot.",
+        "location": "Khulna and Satkhira Districts, Bangladesh",
+        "bestTimeToTravel": "October to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses from Dhaka to Khulna",
+            "Boat tours from Khulna"
+        ],
+        "wear": [
+            "Light and breathable clothing",
+            "Sturdy boots for trekking",
+            "Mosquito repellent"
+        ],
+        "included": [
+            "Boat safari",
+            "Guided forest tours",
+            "Accommodation on boats or eco-lodges"
+        ],
+        "notIncluded": [
+            "Meals (depending on the package)",
+            "Personal expenses",
+            "Tips for guides"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Kotka Beach",
+                "image": "https://example.com/kotka_beach.jpg"
+            },
+            {
+                "name": "Karamjol Wildlife Center",
+                "image": "https://example.com/karamjol.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Junaid Alam",
+                "rating": 5,
+                "comment": "An incredible experience! The mangroves are mystical, and we even spotted a tiger from afar."
+            },
+            {
+                "reviewer": "Laura Kim",
+                "rating": 4.5,
+                "comment": "Amazing wildlife and scenery. The boat safari was unforgettable."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Saint Martin's Island",
+        "image": "https://example.com/saint_martins.jpg",
+        "duration": "2 Days",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Crystal clear blue waters",
+            "Coral reefs and marine life",
+            "Relaxing island experience"
+        ],
+
+
+"about": "Saint Martin's Island is a tropical paradise located in the Bay of Bengal. Known for its crystal clear waters, sandy beaches, and coral reefs, it is the only coral island in Bangladesh. Visitors can enjoy snorkeling, beach walks, and fresh seafood while taking in the stunning beauty of this serene island.",
+        "location": "Bay of Bengal, Teknaf Peninsula, Bangladesh",
+        "bestTimeToTravel": "November to February",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Bus to Teknaf, followed by a ferry to the island",
+            "Private speedboats"
+        ],
+        "wear": [
+            "Beachwear and swimwear",
+            "Comfortable sandals",
+            "Sunscreen and a wide-brimmed hat"
+        ],
+        "included": [
+            "Ferry tickets",
+            "Accommodation",
+            "Snorkeling equipment rental"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Speedboat fees"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Coral Reef Area",
+                "image": "https://example.com/coral_reef.jpg"
+            },
+            {
+                "name": "Chera Dwip",
+                "image": "https://example.com/chera_dwip.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Sadia Noor",
+                "rating": 5,
+                "comment": "The clear water and coral reef are absolutely stunning. A perfect place to relax!"
+            },
+            {
+                "reviewer": "Tom Wilson",
+                "rating": 4,
+                "comment": "Beautiful island, but the boat ride can be rough. Worth it for the views."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Jaflong",
+        "image": "https://example.com/jaflong.jpg",
+        "duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Stone collection and river views",
+            "Lush green hills",
+            "Dawki River and Khasi culture"
+        ],
+        "about": "Jaflong is a picturesque destination located in Sylhet, known for its beautiful river views, stone collection activities, and lush green hills. The area is bordered by the Indian state of Meghalaya, offering stunning views of the Dawki River and glimpses into the Khasi tribal culture. Visitors can also explore the tea gardens and enjoy the tranquil beauty of the surroundings.",
+        "location": "Sylhet Division, Bangladesh",
+        "bestTimeToTravel": "October to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Bus or private car from Sylhet",
+            "Local transport for sightseeing"
+        ],
+        "wear": [
+            "Comfortable clothing",
+            "Waterproof shoes",
+            "Hat and sunglasses"
+        ],
+        "included": [
+            "Transportation from Sylhet",
+            "Guided tour of Jaflong",
+            "Boat ride (if included)"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Entry fees (if applicable)"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Dawki River",
+                "image": "https://example.com/dawki_river.jpg"
+            },
+            {
+                "name": "Stone Collection Site",
+                "image": "https://example.com/stone_site.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Mizanur Rahman",
+                "rating": 4.5,
+                "comment": "The views are breathtaking, especially the river. A perfect day trip from Sylhet."
+            },
+            {
+                "reviewer": "Lucy Brown",
+                "rating": 4,
+                "comment": "Loved the scenic beauty. The boat ride on the river was a highlight."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Chandranath Hill",
+        "image": "https://example.com/chandranath_hill.jpg",
+
+
+"duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Breathtaking hilltop views",
+            "Hiking and trekking opportunities",
+            "Buddhist monastery and temples"
+        ],
+        "about": "Chandranath Hill, located near the town of Sitakunda, is a popular hiking destination offering stunning panoramic views of the surrounding landscape. The hill is also home to several Buddhist monasteries and temples, making it a serene spot for both adventure and reflection.",
+        "location": "Sitakunda, Chattogram District, Bangladesh",
+        "bestTimeToTravel": "November to February",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses from Chattogram",
+            "Local taxis to the hill base"
+        ],
+        "wear": [
+            "Comfortable hiking shoes",
+            "Light, breathable clothing",
+            "Hat and sunscreen"
+        ],
+        "included": [
+            "Entry to the hiking trails",
+            "Local guide (optional)",
+            "Photography opportunities"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Transportation"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Buddhist Monastery",
+                "image": "https://example.com/buddhist_monastery.jpg"
+            },
+            {
+                "name": "Hilltop Viewpoint",
+                "image": "https://example.com/hilltop_viewpoint.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Rina Sultana",
+                "rating": 4.7,
+                "comment": "A great hiking experience with breathtaking views. Highly recommend!"
+            },
+            {
+                "reviewer": "Tom Jones",
+                "rating": 4,
+                "comment": "Beautiful place but can be crowded on weekends."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Jaflong",
+        "image": "https://example.com/jaflong.jpg",
+        "duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Stunning natural landscapes",
+            "Cultural interactions with local communities",
+            "Boat rides on the Dawki River"
+        ],
+        "about": "Jaflong is a picturesque destination known for its crystal-clear waters and scenic hills. Located near the India-Bangladesh border, it is famous for boat rides on the Dawki River. The area offers rich cultural experiences and opportunities to interact with local communities engaged in traditional stone collection.",
+        "location": "Sylhet Division, Bangladesh",
+        "bestTimeToTravel": "November to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Local buses from Sylhet",
+            "Boat services for river tours"
+        ],
+        "wear": [
+            "Comfortable clothing suitable for water activities",
+            "Flip-flops or water shoes",
+            "Light jacket for boat rides"
+        ],
+        "included": [
+            "Boat ride",
+            "Local guide",
+            "Cultural experiences"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Transportation from Sylhet"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Dawki River",
+                "image": "https://example.com/dawki_river.jpg"
+            },
+            {
+                "name": "Local Stone Quarries",
+                "image": "https://example.com/local_stone_quarries.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Shabnam Rahman",
+                "rating": 4.8,
+                "comment": "Absolutely beautiful! The boat ride on Dawki River was the highlight of my trip."
+            },
+            {
+                "reviewer": "David Brown",
+                "rating": 4.2,
+
+
+"comment": "A hidden gem with amazing views. The local culture is fascinating."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Puthia Temple Complex",
+        "image": "https://example.com/puthia_temple.jpg",
+        "duration": "Half-Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Stunning Hindu temples",
+            "Architectural marvels from the 18th century",
+            "Rich history and cultural significance"
+        ],
+        "about": "Puthia Temple Complex is home to one of the largest collections of Hindu temples in Bangladesh, featuring exquisite architecture and intricate designs. Built in the 18th century, the temples are a testament to the artistic and cultural heritage of the region. It is an excellent spot for history enthusiasts and photographers.",
+        "location": "Puthia, Rajshahi District, Bangladesh",
+        "bestTimeToTravel": "November to February",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses from Rajshahi",
+            "Local transport to the complex"
+        ],
+        "wear": [
+            "Modest clothing suitable for temple visits",
+            "Comfortable footwear",
+            "Hat and sunglasses"
+        ],
+        "included": [
+            "Entry to the temple complex",
+            "Guided tour (if part of a package)",
+            "Photography opportunities"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Transportation"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Shiva Temple",
+                "image": "https://example.com/shiva_temple.jpg"
+            },
+            {
+                "name": "Govinda Temple",
+                "image": "https://example.com/govinda_temple.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Ratul Chowdhury",
+                "rating": 4.6,
+                "comment": "Beautiful temples with rich history. A must-visit for culture lovers!"
+            },
+            {
+                "reviewer": "Emily Carter",
+                "rating": 4.3,
+                "comment": "The architecture is stunning! It’s a peaceful place to explore."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Foy's Lake",
+        "image": "https://example.com/foys_lake.jpg",
+        "duration": "1 Day",
+        "price": {
+    "adult": 500,
+    "child": 300,
+    "family": 1200
+  },
+        "highlights": [
+            "Picturesque lake surrounded by hills",
+            "Amusement park and recreational activities",
+            "Boating and nature walks"
+        ],
+        "about": "Foy's Lake is an artificial lake located in Chattogram, offering a beautiful landscape surrounded by hills. The area features an amusement park, boating activities, and opportunities for nature walks. It’s a perfect getaway for families and those looking to enjoy a day of relaxation and fun.",
+        "location": "Chattogram, Bangladesh",
+        "bestTimeToTravel": "November to March",
+        "tourAvailable": "Yes",
+        "transportation": [
+            "Buses from Chattogram city center",
+            "Local taxis to the lake"
+        ],
+        "wear": [
+            "Casual and comfortable clothing",
+            "Walking shoes",
+            "Sunscreen and a hat"
+        ],
+        "included": [
+            "Entry to the amusement park",
+            "Boat ride",
+            "Recreational activities"
+        ],
+        "notIncluded": [
+            "Meals",
+            "Personal expenses",
+            "Additional activity fees"
+        ],
+        "spotsGoingPlaces": [
+            {
+                "name": "Boating Area",
+                "image": "https://example.com/boating_area.jpg"
+            },
+            {
+                "name": "Amusement Park",
+                "image": "https://example.com/amusement_park.jpg"
+            }
+        ],
+        "reviews": [
+            {
+                "reviewer": "Sofia Ali",
+
+
+"rating": 4.4,
+                "comment": "A great place for a family outing! Lots of activities for kids."
+            },
+            {
+                "reviewer": "Daniel Green",
+                "rating": 4,
+                "comment": "Beautiful scenery and a fun day out. The boat ride was enjoyable."
+            }
+        ]
+    }
+]

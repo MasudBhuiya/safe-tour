@@ -120,23 +120,7 @@ const Blog = () => {
                 </div>
             </section>
 
-            {/* Newsletter Signup Section */}
-            {/* <section className="bg-white text-gray-900 py-10 rounded-lg shadow-lg mb-12 text-center max-w-lg mx-auto">
-        <h2 className="text-2xl font-semibold mb-4">Join Our Travel Community</h2>
-        <p className="mb-6">
-          Subscribe to get updates on the latest travel tips, destinations, and guides straight to your inbox.
-        </p>
-        <form className="flex flex-col items-center space-y-4">
-          <input
-            type="email"
-            placeholder="Enter your email"
-            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-orange-500"
-          />
-          <button className="w-full bg-orange-500 text-white py-2 rounded-lg font-semibold hover:bg-orange-600 transition duration-300">
-            Subscribe
-          </button>
-        </form>
-      </section> */}
+            
 
             <section>
                 <NewsLetter></NewsLetter>
