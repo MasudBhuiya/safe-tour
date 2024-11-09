@@ -1,7 +1,15 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { AuthContext } from '../Provider/AuthProvider';
 
 const Navbar = () => {
+  const { user, logOut, userLoading } = useContext(AuthContext);
+
+  const handleLogout = () => {
+    logOut()
+      .then((res) => { })
+      .then((data) => { });
+  };
   return (
     <div className='max-w-[1440px] mx-auto h-0 px-4'>
       <div className="navbar bg-base-100">
@@ -30,6 +38,8 @@ const Navbar = () => {
         <li><Link to='/review'>Review</Link></li>
         <li><Link to='/alltour'>All Tour</Link></li>
         <li><Link to='/blog'>Blog</Link></li>
+        <li><Link to="/contact">Contact us</Link></li>
+        <li><Link to='/dashboard'>Dashboard</Link></li>
       </ul>
     </div>
     <a className="btn btn-ghost text-xl "><span className="font-bold bg-orange-500 rounded-full px-3 py-2 text-white">ST</span> Safe Tour.</a>
@@ -42,10 +52,20 @@ const Navbar = () => {
         <li><Link to='/review'>Review</Link></li>
         <li><Link to='/alltour'>All Tour</Link></li>
         <li><Link to='/blog'>Blog</Link></li>
+        <li><Link to="/contact">Contact us</Link></li>
+        <li><Link to='/dashboard'>Dashboard</Link></li>
     </ul>
   </div>
   <div className="navbar-end">
-    <Link to="/contact" className="btn bg-sky-400 text-white font-bold border-none">Contact us</Link>
+
+    
+    {
+    user ? <><li onClick={handleLogout} className="btn bg-sky-500 border-0 text-white hover:bg-sky-800 mr-2
+  "><Link>LOG OUT</Link></li></>: <li className="btn bg-sky-500 hover:bg-sky-800 border-0 text-white mr-2
+  "><Link to="/login">LOGIN</Link></li>}
+    {user ? <img className="w-12 h-12 rounded-full" src={user?.photoURL
+} alt="" />: <img className="w-12 h-12 rounded-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpsSYuMnSziZqiTm7N3_cuyCNbBwkLCxtgN7V6rlV4VaMUje7vpgmUDRJxQiZM7TWI7xM&usqp=CAU" alt="" />
+}
   </div>
 </div>
     </div>
