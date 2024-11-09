@@ -17,6 +17,9 @@ import Review from './Routes/Review/Review';
 import AllTour from './Routes/Home/AllTour';
 import AllTours from './Routes/AllTours/AllTours';
 import Blog from './Routes/Blog/Blog';
+import Login from './Routes/Login/Login';
+import Register from './Routes/Register/Register';
+import AuthProvider, { AuthContext } from './Provider/AuthProvider';
 
 const router = createBrowserRouter([
   {
@@ -51,6 +54,14 @@ const router = createBrowserRouter([
     {
       path : 'blog',
       element: <Blog></Blog>
+    },
+    {
+      path : 'login',
+      element: <Login></Login>
+    },
+    {
+      path : 'register',
+      element: <Register></Register>
     }
     ]
   },
@@ -58,6 +69,8 @@ const router = createBrowserRouter([
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <RouterProvider router={router} />
+   <AuthProvider>
+   <RouterProvider router={router} />
+   </AuthProvider>
   </StrictMode>,
 )

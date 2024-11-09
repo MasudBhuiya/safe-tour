@@ -1,7 +1,17 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import AllTour from '../Home/AllTour';
 
 const AllTours = () => {
+  const [tours, setTours] = useState([]);
+
+
+
+
+  useEffect(()=>{
+    fetch('/spots.json')
+    .then(res => res.json())
+    .then(data => setTours(data))
+  },[])
   return (
     <div>
       <div
@@ -16,9 +26,10 @@ const AllTours = () => {
                     </div>
                 </div>
             </div>
-
-            <section className='max-w-[1440px] mx-auto px-4'>
-                <AllTour></AllTour>
+            <section className='max-w-[1440px] mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 gap-6 md:grid-cols-3 justify-center items-center mt-28'>
+                {
+                  tours?.map(tour => <AllTour key={tour?.id} tour={tour}></AllTour>)
+                }
             </section>
     </div>
   );

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "name": "Sundarbans Mangrove Forest",
-        "image": "https://example.com/sundarbans.jpg",
+        "image": "https://img.freepik.com/free-photo/amazing-bengal-tiger-nature_475641-1255.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid",
         "duration": "3-5 Days",
         "price": {
     "adult": 500,
@@ -45,15 +45,15 @@
         "spotsGoingPlaces": [
             {
                 "name": "Kotka Beach",
-                "image": "https://example.com/kotka_beach.jpg"
+                "image": "https://img.freepik.com/free-photo/gigantic-salted-water-crocodile-caught-mangroves-sundarbans-india_475641-829.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid"
             },
             {
                 "name": "Hiron Point",
-                "image": "https://example.com/hiron_point.jpg"
+                "image": "https://img.freepik.com/free-photo/beautiful-axis-deer-from-sundarbans-tiger-reserve-india_475641-831.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid"
             },
             {
                 "name": "Dublar Char Island",
-                "image": "https://example.com/dublar_char.jpg"
+                "image": "https://img.freepik.com/free-photo/beautiful-hawaii-landscape-with-ocean_23-2149082943.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid"
             }
         ],
         "reviews": [
@@ -72,7 +72,7 @@
     {
         "id": 2,
         "name": "Cox's Bazar Beach",
-        "image": "https://example.com/coxs_bazar.jpg",
+        "image": "https://img.freepik.com/premium-photo/tourists-beach-summer_7180-3065.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid",
         "duration": "2-3 Days",
         "price": {
     "adult": 500,
@@ -116,15 +116,15 @@
         "spotsGoingPlaces": [
             {
                 "name": "Himchari National Park",
-                "image": "https://example.com/himchari.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipNYItD-GsNRw9IzuH1VjOy8rWrig-ibZFJ_0iMN=w540-h312-n-k-no"
             },
             {
                 "name": "Inani Beach",
-                "image": "https://example.com/inani_beach.jpg"
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/db/11/6b/photo2jpg.jpg?w=700&h=400&s=1"
             },
             {
                 "name": "Burmese Market",
-                "image": "https://example.com/burmese_market.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPUxovXJqHEXu1FekRfbe_pZAh63xy6U-YKrdYR=w408-h306-k-no"
             }
         ],
         "reviews": [
@@ -143,7 +143,7 @@
     {
         "id": 3,
         "name": "Srimangal",
-        "image": "https://example.com/srimangal.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMqER_ySyCGfDGcnrUVEgXWNEMPFBUdeX4mD1Qw=w408-h306-k-no",
         "duration": "2 Days",
         "price": {
     "adult": 500,
@@ -184,15 +184,15 @@
         "spotsGoingPlaces": [
             {
                 "name": "Lawachara National Park",
-                "image": "https://example.com/lawachara.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOHNwmL6d7Hrs-MgKTlbqUzXWyOzn1LRAyfwLTf=w408-h544-k-no"
             },
             {
                 "name": "Tea Gardens",
-                "image": "https://example.com/tea_gardens.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMLopVOgl1DXCEWIni-M4SxWyLzQ-VoHQqum7bk=w408-h291-k-no"
             },
             {
                 "name": "Madhabkunda Waterfall",
-                "image": "https://example.com/madhabkunda.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipM18wstSgHCNFxntqxLgtKDXn3lGmgjEhToGUOK=w408-h305-k-no"
             }
         ],
         "reviews": [
@@ -211,7 +211,7 @@
     {
         "id": 4,
         "name": "Saint Martin's Island",
-        "image": "https://example.com/saint_martins.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNr1KApi0Ed2UyDD2irf6neXpLVSRsGRzxI999G=w408-h244-k-no",
         "duration": "1-2 Days",
         "price": {
     "adult": 500,
@@ -251,11 +251,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Chera Dwip",
-                "image": "https://example.com/chera_dwip.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipM2JychFoka0xRe-yfuE9729hfstvYjR2G4JNeW=w520-h240-k-no"
             },
             {
                 "name": "Local Fish Market",
-                "image": "https://example.com/fish_market.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPfUYWsgQkrO_U1mhoTA6sVkKryj6Dr73LTw8gM=w408-h306-k-no"
             }
         ],
         "reviews": [
@@ -274,7 +274,7 @@
     {
         "id": 5,
         "name": "Rangamati",
-        "image": "https://example.com/rangamati.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNjHrzVSJG4glLmnIJkm4dWSgbGhFn6Z-vI8XXZ=w426-h240-k-no",
         "duration": "2-3 Days",
         "price": {
     "adult": 500,
@@ -312,11 +312,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Kaptai Lake",
-                "image": "https://example.com/kaptai_lake.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMMt8sHyHC0eTqB5BkfFpMOkekHAY4HIMQEqfLs=w408-h272-k-no"
             },
             {
                 "name": "Tribal Markets",
-                "image": "https://example.com/tribal_market.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOALnWq69sGCG9atb6HUFEHbxN91Lg9M4oh-cYp=w533-h240-k-no"
             }
         ],
         "reviews": [
@@ -337,7 +337,7 @@
     {
         "id": 6,
         "name": "Bandarban",
-        "image": "https://example.com/bandarban.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOzVH1i30D3pcH9AeBaKf54l_gz_tNvIaPhrqk7=w408-h306-k-no",
         "duration": "3-4 Days",
         "price": {
     "adult": 500,
@@ -375,11 +375,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Boga Lake",
-                "image": "https://example.com/boga_lake.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipP8eEmlb69CryQzIzf7iQoppTfIj9-90ZHljxUb=w408-h306-k-no"
             },
             {
                 "name": "Nilgiri Hills",
-                "image": "https://example.com/nilgiri.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipNX99Z0jULLVTebFWsNfHvUz5x7tQf3qwO-JRfu=w408-h270-k-no"
             }
         ],
         "reviews": [
@@ -398,7 +398,7 @@
     {
         "id": 7,
         "name": "Sylhet",
-        "image": "https://example.com/sylhet.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMOSmm5GYddxOVCbC10Wp4Q350RIUtfUTyZjxnk=w427-h240-k-no",
         "duration": "2-3 Days",
         "price": {
     "adult": 500,
@@ -436,11 +436,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Ratargul Swamp Forest",
-                "image": "https://example.com/ratargul.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPFq83tD3bnZQLMgLrebDuEIFnjD1Xody3QJr1z=w408-h306-k-no"
             },
             {
                 "name": "Jaflong",
-                "image": "https://example.com/jaflong.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOhLZmEs2YvRComxuwFNOxWUNk7wsMPhBr5IO0I=w408-h258-k-no"
             }
         ],
         "reviews": [
@@ -461,7 +461,7 @@
     {
         "id": 8,
         "name": "Paharpur Buddhist Monastery",
-        "image": "https://example.com/paharpur.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMo3jHbbJivPSQfYQXJ8p-2kegg9PQVmOanBm5c=w408-h306-k-no",
         "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -499,11 +499,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Ruins of Somapura Mahavihara",
-                "image": "https://example.com/somapura.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOPtn2dxXeZXxUSM-o3bABmWT-fgjue4pAvQeAj=w408-h316-k-no"
             },
             {
                 "name": "Local Museum",
-                "image": "https://example.com/museum.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMhMe-ZYkQHpbN4oAXnD6CJwKMWvRPvoP78k15Q=w442-h240-k-no"
             }
         ],
         "reviews": [
@@ -522,7 +522,7 @@
     {
         "id": 9,
         "name": "Kuakata",
-        "image": "https://example.com/kuakata.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOXGaMOcZ2ZBuTnDOCKqE5CviH_EQwYdfFrmRkO=w426-h240-k-no",
         "duration": "2 Days",
         "price": {
     "adult": 500,
@@ -562,15 +562,15 @@
 
 
 "name": "Kuakata Beach",
-                "image": "https://example.com/kuakata_beach.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipP1mqHPd89K6QxPDIk8L6FTnukQguk5F2Mm6e-g=w408-h305-k-no"
             },
             {
                 "name": "Buddhist Temple",
-                "image": "https://example.com/buddhist_temple.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMnWAA6Mr1WOoJR2poP4tzzfySR7H2LSyFHkSxG=w478-h269-p-k-no"
             },
             {
                 "name": "Fatrar Char",
-                "image": "https://example.com/fatrar_char.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPfgfaGDHBPvZyti-hbc1neKHtQXk-mL_co1brC=w408-h306-k-no"
             }
         ],
         "reviews": [
@@ -589,7 +589,7 @@
     {
         "id": 10,
         "name": "Bagerhat",
-        "image": "https://example.com/bagerhat.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMgmrC_Gft64TKLY7rptLsRZrkn-fPruPoqtcVG=w426-h240-k-no",
         "duration": "1-2 Days",
         "price": {
     "adult": 500,
@@ -627,11 +627,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Sixty Dome Mosque",
-                "image": "https://example.com/sixty_dome.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipM33v602KwKrx9AEOzz67ZfwAh3aPqKu8njaOi6=w408-h272-k-no"
             },
             {
                 "name": "Khan Jahan Ali's Tomb",
-                "image": "https://example.com/khan_tomb.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMS0yYjjq8BxDKgbEfm379BMzNXdUKgbeHaZJcM=w408-h306-k-no"
             }
         ],
         "reviews": [
@@ -650,7 +650,7 @@
     {
         "id": 11,
         "name": "Maheshkhali Island",
-        "image": "https://example.com/maheshkhali.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO7vz84CB6r-wwvSTIafQs9I5rd-pM6OUWGbKwF=w408-h314-k-no",
         "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -690,11 +690,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Adinath Temple",
-                "image": "https://example.com/adinath_temple.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPOw_C25KNqNmjxQHu_B0XyNQRYBMtYTkrt7ALz=w408-h306-k-no"
             },
             {
                 "name": "Salt Fields",
-                "image": "https://example.com/salt_fields.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipODnNipXbne2dutqHJ7hqyhTp1uAIhDJdE1OFpM=w426-h240-k-no"
             }
         ],
         "reviews": [
@@ -713,7 +713,7 @@
     {
         "id": 12,
         "name": "Sonargaon",
-        "image": "https://example.com/sonargaon.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOgUabo4QLfqn4AUuN45uJvmSinjJ-iNM6ul_a7=w409-h240-k-no",
         "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -751,11 +751,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Panam City",
-                "image": "https://example.com/panam_city.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOSQXw7fkZit9I8MVreWJ1mlKAxXLjYQj7etJpA=w408-h724-k-no"
             },
             {
                 "name": "Folk Art Museum",
-                "image": "https://example.com/folk_art_museum.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOEnti8zs4zptuRxpGX6nrSKmJl6ewsRRAjo7Lc=w408-h305-k-no"
             }
         ],
         "reviews": [
@@ -771,197 +771,11 @@
             }
         ]
     },
+
     {
         "id": 13,
-        "name": "Cox's Bazar",
-        "image": "https://example.com/coxs_bazar.jpg",
-        "duration": "3-4 Days",
-        "price": {
-    "adult": 500,
-    "child": 300,
-    "family": 1200
-  },
-        "highlights": [
-            "Longest unbroken sandy sea beach",
-            "Marine drive and sunset views",
-            "Inani and Himchari beaches"
-        ],
-        "about": "Cox's Bazar is renowned for having the world's longest natural sandy beach, stretching over 120 km along the Bay of Bengal. It’s a popular destination for beach lovers, offering breathtaking sunsets, surfing opportunities, and stunning coastal drives. The nearby Inani and Himchari beaches are also worth visiting, providing serene and picturesque views.",
-
-
-"location": "Cox's Bazar District, Bangladesh",
-        "bestTimeToTravel": "November to February",
-        "tourAvailable": "Yes",
-        "transportation": [
-            "Flights from Dhaka to Cox's Bazar",
-            "Buses from Dhaka and Chittagong"
-        ],
-        "wear": [
-            "Light, casual clothing",
-            "Beachwear",
-            "Sunscreen and sunglasses"
-        ],
-        "included": [
-            "Accommodation",
-            "Beach activities",
-            "Local sightseeing"
-        ],
-        "notIncluded": [
-            "Meals",
-            "Personal expenses",
-            "Water sports fees"
-        ],
-        "spotsGoingPlaces": [
-            {
-                "name": "Inani Beach",
-                "image": "https://example.com/inani_beach.jpg"
-            },
-            {
-                "name": "Himchari Waterfall",
-                "image": "https://example.com/himchari.jpg"
-            }
-        ],
-        "reviews": [
-            {
-                "reviewer": "Fahim Rashid",
-                "rating": 5,
-                "comment": "Absolutely loved the long stretches of sand and the stunning sunsets. A must-visit!"
-            },
-            {
-                "reviewer": "Emily Watson",
-                "rating": 4.5,
-                "comment": "Beautiful beach but can be quite crowded during peak season."
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Sundarbans",
-        "image": "https://example.com/sundarbans.jpg",
-        "duration": "3 Days",
-        "price": {
-    "adult": 500,
-    "child": 300,
-    "family": 1200
-  },
-        "highlights": [
-            "World’s largest mangrove forest",
-            "Royal Bengal Tigers",
-            "Wildlife safari and bird watching"
-        ],
-        "about": "The Sundarbans, a UNESCO World Heritage Site, is the largest mangrove forest in the world and home to the majestic Royal Bengal Tiger. The forest spans the delta of the Ganges, Brahmaputra, and Meghna rivers, offering a diverse ecosystem with exotic wildlife. Visitors can embark on boat safaris, explore the mangroves, and enjoy bird watching in this biodiversity hotspot.",
-        "location": "Khulna and Satkhira Districts, Bangladesh",
-        "bestTimeToTravel": "October to March",
-        "tourAvailable": "Yes",
-        "transportation": [
-            "Buses from Dhaka to Khulna",
-            "Boat tours from Khulna"
-        ],
-        "wear": [
-            "Light and breathable clothing",
-            "Sturdy boots for trekking",
-            "Mosquito repellent"
-        ],
-        "included": [
-            "Boat safari",
-            "Guided forest tours",
-            "Accommodation on boats or eco-lodges"
-        ],
-        "notIncluded": [
-            "Meals (depending on the package)",
-            "Personal expenses",
-            "Tips for guides"
-        ],
-        "spotsGoingPlaces": [
-            {
-                "name": "Kotka Beach",
-                "image": "https://example.com/kotka_beach.jpg"
-            },
-            {
-                "name": "Karamjol Wildlife Center",
-                "image": "https://example.com/karamjol.jpg"
-            }
-        ],
-        "reviews": [
-            {
-                "reviewer": "Junaid Alam",
-                "rating": 5,
-                "comment": "An incredible experience! The mangroves are mystical, and we even spotted a tiger from afar."
-            },
-            {
-                "reviewer": "Laura Kim",
-                "rating": 4.5,
-                "comment": "Amazing wildlife and scenery. The boat safari was unforgettable."
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "name": "Saint Martin's Island",
-        "image": "https://example.com/saint_martins.jpg",
-        "duration": "2 Days",
-        "price": {
-    "adult": 500,
-    "child": 300,
-    "family": 1200
-  },
-        "highlights": [
-            "Crystal clear blue waters",
-            "Coral reefs and marine life",
-            "Relaxing island experience"
-        ],
-
-
-"about": "Saint Martin's Island is a tropical paradise located in the Bay of Bengal. Known for its crystal clear waters, sandy beaches, and coral reefs, it is the only coral island in Bangladesh. Visitors can enjoy snorkeling, beach walks, and fresh seafood while taking in the stunning beauty of this serene island.",
-        "location": "Bay of Bengal, Teknaf Peninsula, Bangladesh",
-        "bestTimeToTravel": "November to February",
-        "tourAvailable": "Yes",
-        "transportation": [
-            "Bus to Teknaf, followed by a ferry to the island",
-            "Private speedboats"
-        ],
-        "wear": [
-            "Beachwear and swimwear",
-            "Comfortable sandals",
-            "Sunscreen and a wide-brimmed hat"
-        ],
-        "included": [
-            "Ferry tickets",
-            "Accommodation",
-            "Snorkeling equipment rental"
-        ],
-        "notIncluded": [
-            "Meals",
-            "Personal expenses",
-            "Speedboat fees"
-        ],
-        "spotsGoingPlaces": [
-            {
-                "name": "Coral Reef Area",
-                "image": "https://example.com/coral_reef.jpg"
-            },
-            {
-                "name": "Chera Dwip",
-                "image": "https://example.com/chera_dwip.jpg"
-            }
-        ],
-        "reviews": [
-            {
-                "reviewer": "Sadia Noor",
-                "rating": 5,
-                "comment": "The clear water and coral reef are absolutely stunning. A perfect place to relax!"
-            },
-            {
-                "reviewer": "Tom Wilson",
-                "rating": 4,
-                "comment": "Beautiful island, but the boat ride can be rough. Worth it for the views."
-            }
-        ]
-    },
-    {
-        "id": 16,
         "name": "Jaflong",
-        "image": "https://example.com/jaflong.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOhLZmEs2YvRComxuwFNOxWUNk7wsMPhBr5IO0I=w408-h258-k-no",
         "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -999,11 +813,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Dawki River",
-                "image": "https://example.com/dawki_river.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipN7O2hav7DSxSLY9mmQ4-I4Z1uHWbuueIFcphWy=w408-h272-k-no"
             },
             {
                 "name": "Stone Collection Site",
-                "image": "https://example.com/stone_site.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipNEmbJUHCWcYEzeu6N56ZZA-QL-Tvem5C4MRPaV=w408-h306-k-no"
             }
         ],
         "reviews": [
@@ -1020,11 +834,11 @@
         ]
     },
     {
-        "id": 17,
+        "id": 14,
         "name": "Chandranath Hill",
-        "image": "https://example.com/chandranath_hill.jpg",
+        "image": "https://media.gettyimages.com/id/1875763660/photo/a-view-of-chandranath-hill-in-sitakunda-chittagong-bangladesh-on-december-24-is-showing-the.jpg?s=612x612&w=0&k=20&c=b7_qhsJXWDgqCXRKJe92cEAXrMUZ8fs1Ec_RlYfXiEU=",
 
-
+ 
 "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -1062,11 +876,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Buddhist Monastery",
-                "image": "https://example.com/buddhist_monastery.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMFihiqzTuBzs15G9a9tifMKmnkZVsI-vbNTLUN=w408-h306-k-no"
             },
             {
                 "name": "Hilltop Viewpoint",
-                "image": "https://example.com/hilltop_viewpoint.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPizWmSll04CxldjRMN0j56rfRatk2O7bPADQJm=w408-h544-k-no"
             }
         ],
         "reviews": [
@@ -1082,73 +896,11 @@
             }
         ]
     },
+    
     {
-        "id": 18,
-        "name": "Jaflong",
-        "image": "https://example.com/jaflong.jpg",
-        "duration": "1 Day",
-        "price": {
-    "adult": 500,
-    "child": 300,
-    "family": 1200
-  },
-        "highlights": [
-            "Stunning natural landscapes",
-            "Cultural interactions with local communities",
-            "Boat rides on the Dawki River"
-        ],
-        "about": "Jaflong is a picturesque destination known for its crystal-clear waters and scenic hills. Located near the India-Bangladesh border, it is famous for boat rides on the Dawki River. The area offers rich cultural experiences and opportunities to interact with local communities engaged in traditional stone collection.",
-        "location": "Sylhet Division, Bangladesh",
-        "bestTimeToTravel": "November to March",
-        "tourAvailable": "Yes",
-        "transportation": [
-            "Local buses from Sylhet",
-            "Boat services for river tours"
-        ],
-        "wear": [
-            "Comfortable clothing suitable for water activities",
-            "Flip-flops or water shoes",
-            "Light jacket for boat rides"
-        ],
-        "included": [
-            "Boat ride",
-            "Local guide",
-            "Cultural experiences"
-        ],
-        "notIncluded": [
-            "Meals",
-            "Personal expenses",
-            "Transportation from Sylhet"
-        ],
-        "spotsGoingPlaces": [
-            {
-                "name": "Dawki River",
-                "image": "https://example.com/dawki_river.jpg"
-            },
-            {
-                "name": "Local Stone Quarries",
-                "image": "https://example.com/local_stone_quarries.jpg"
-            }
-        ],
-        "reviews": [
-            {
-                "reviewer": "Shabnam Rahman",
-                "rating": 4.8,
-                "comment": "Absolutely beautiful! The boat ride on Dawki River was the highlight of my trip."
-            },
-            {
-                "reviewer": "David Brown",
-                "rating": 4.2,
-
-
-"comment": "A hidden gem with amazing views. The local culture is fascinating."
-            }
-        ]
-    },
-    {
-        "id": 19,
+        "id": 15,
         "name": "Puthia Temple Complex",
-        "image": "https://example.com/puthia_temple.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM7Yyo-SeklxNpVwpKS4gz7KXHZhEcpYoRNz4qk=w408-h306-k-no",
         "duration": "Half-Day",
         "price": {
     "adult": 500,
@@ -1186,11 +938,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Shiva Temple",
-                "image": "https://example.com/shiva_temple.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOhy_X-zBTlqr8pn8lhr5YHe5PBlM9g2GFIXf4=w459-h240-k-no"
             },
             {
                 "name": "Govinda Temple",
-                "image": "https://example.com/govinda_temple.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMPGRjkBrxA9z1CKtLlv_0xCS_4a18HKupUnfeR=w408-h723-k-no"
             }
         ],
         "reviews": [
@@ -1207,9 +959,9 @@
         ]
     },
     {
-        "id": 20,
+        "id": 16,
         "name": "Foy's Lake",
-        "image": "https://example.com/foys_lake.jpg",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM3HvS_-DdtIIRDaBiz_7NTFy4cMRWCPwHRb3Sy=w408-h297-k-no",
         "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -1247,11 +999,11 @@
         "spotsGoingPlaces": [
             {
                 "name": "Boating Area",
-                "image": "https://example.com/boating_area.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipNe5VSDxCD4b4LfkUFbhUWzi53zihUXcFu8GSgS=w408-h306-k-no"
             },
             {
                 "name": "Amusement Park",
-                "image": "https://example.com/amusement_park.jpg"
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMR0jLyu_nusvCmFKDVTm8P9URz0iyY6QWhbpZT=w408-h306-k-no"
             }
         ],
         "reviews": [
