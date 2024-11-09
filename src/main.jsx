@@ -20,6 +20,8 @@ import Blog from './Routes/Blog/Blog';
 import Login from './Routes/Login/Login';
 import Register from './Routes/Register/Register';
 import AuthProvider, { AuthContext } from './Provider/AuthProvider';
+import Dashboard from './Dashboard/Dashboard';
+import Profile from './Dashboard/Profile/Profile';
 
 const router = createBrowserRouter([
   {
@@ -65,6 +67,16 @@ const router = createBrowserRouter([
     }
     ]
   },
+  {
+    path: '/dashboard',
+    element: <Dashboard></Dashboard>,
+    children : [
+      {
+        path: '',
+        element: <Profile></Profile>
+      }
+    ]
+  }
 ]);
 
 createRoot(document.getElementById('root')).render(

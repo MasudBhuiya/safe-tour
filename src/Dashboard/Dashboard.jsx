@@ -1,20 +1,20 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { FaBook, FaHome,  FaShoppingCart,  FaUsers, FaUtensils, FaWallet } from 'react-icons/fa';
 import { Link, NavLink, Outlet } from 'react-router-dom';
-import useClass from '../../hooks/useClass';
-import { AuthContext } from '../../Providers/AuthProvider';
-import useTitle from '../../Shared/useTitle';
+import useTitle from '../Shared/useTitle';
+import { AuthContext } from '../Provider/AuthProvider';
+// import useClass from '../../hooks/useClass';
 
 
 const Dashboard = () => {
-    const [classe] = useClass();
+    // const [classe] = useClass();
     const [roles, setRoles] = useState([])
     const [role, setRole] = useState({})
     // console.log(role);
     const {user} = useContext(AuthContext);
     useTitle('Dashboard')
     useEffect(()=>{
-      fetch(`https://assignment-twelve-server-gilt.vercel.app/roleusers?email=${user.email}`)
+      fetch(`https://assignment-twelve-server-gilt.vercel.app/roleusers?email=${user?.email}`)
       .then(res => res.json())
       .then(data => {
         setRoles(data)
@@ -59,7 +59,7 @@ const Dashboard = () => {
          !role.role  && <>
         {/* Sidebar content here */}
       <li><NavLink to="/dashboard/history"><FaWallet></FaWallet> Payment History</NavLink></li>
-      <li><NavLink to="/dashboard/myclasses"><FaShoppingCart></FaShoppingCart> My Selected Class<span className="badge badge-secondary">+{classe?.length || 0}</span></NavLink></li>
+      <li><NavLink to="/dashboard/myclasses"><FaShoppingCart></FaShoppingCart> My Selected Class<span className="badge badge-secondary">+ 0</span></NavLink></li>
       <li><NavLink to="/dashboard/enrolled"> Enrolled Class</NavLink></li>
         </>
       }
