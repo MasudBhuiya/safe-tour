@@ -3,6 +3,7 @@ import { FaBook, FaHome,  FaShoppingCart,  FaUsers, FaUtensils, FaWallet } from 
 import { Link, NavLink, Outlet } from 'react-router-dom';
 import useTitle from '../Shared/useTitle';
 import { AuthContext } from '../Provider/AuthProvider';
+import { ImProfile } from 'react-icons/im';
 // import useClass from '../../hooks/useClass';
 
 
@@ -58,17 +59,18 @@ const Dashboard = () => {
       {
          !role.role  && <>
         {/* Sidebar content here */}
+      <li><NavLink to="/dashboard"><ImProfile></ImProfile> Profile</NavLink></li>
       <li><NavLink to="/dashboard/history"><FaWallet></FaWallet> Payment History</NavLink></li>
-      <li><NavLink to="/dashboard/myclasses"><FaShoppingCart></FaShoppingCart> My Selected Class<span className="badge badge-secondary">+ 0</span></NavLink></li>
-      <li><NavLink to="/dashboard/enrolled"> Enrolled Class</NavLink></li>
+      <li><NavLink to="/dashboard/myselectedspots"><FaShoppingCart></FaShoppingCart> My Selected Spots<span className="badge badge-secondary">+ 0</span></NavLink></li>
+      <li><NavLink to="/dashboard/enrolled"> Enrolled Spots</NavLink></li>
         </>
       }
 
 
       <div className="divider"></div>
       <li ><NavLink to="/"><FaHome></FaHome>Home</NavLink></li>
-      <li><NavLink to="/allinstructors">All Instructors</NavLink></li>
-      <li><NavLink to="/allclasses">All Classes</NavLink></li>
+      <li><NavLink to="/alltour">All Tours</NavLink></li>
+      <li><NavLink to="/review">Reviews</NavLink></li>
     </ul>
   
   </div>
