@@ -43,7 +43,7 @@ const Banner = () => {
         </div>
 
         <div className='banner-img'>
-          <img className='w-[380px] h-[510px] absolute z-10 top-0 left-12' src="https://i.ibb.co.com/wyvW3s4/Girl.png" alt="" />
+          <img className='w-[380px] h-[510px] absolute z-10 top-0 left-0 sm:left-12' src="https://i.ibb.co.com/wyvW3s4/Girl.png" alt="" />
         </div>
       </div>
       

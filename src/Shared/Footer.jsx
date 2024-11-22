@@ -37,7 +37,7 @@ const Footer = () => {
         <h1 className='font-bold'>Get in Touch</h1>
         <p className='mt-3 text-lg font-bold text-sm mb-12'>Feel free to get in touch <br /> with us vai email</p>
 
-      <a className='text-blue-500' href="">masudbhuiyan1415@gmail.com</a>
+      <a className='text-blue-500 flex flex-wrap' href="">masud@gmail.com</a>
       </div>
     </div>
 
