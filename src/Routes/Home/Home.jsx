@@ -17,7 +17,7 @@ const Home = () => {
 
 
   useEffect(()=>{
-    fetch('/spots.json')
+    fetch('http://localhost:5000/spots')
     .then(res => res.json())
     .then(data => setTours(data))
   },[])
@@ -37,7 +37,7 @@ const Home = () => {
       </div>
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mx-auto gap-4 lg:gap-8 '>
         {
-         seeMore ? tours?.map(tour => <AllTour key={tour.id} tour={tour}></AllTour>) : tours.slice(0, 6)?.map(tour => <AllTour key={tour.id} tour={tour}></AllTour>)
+         seeMore ? tours?.map(tour => <AllTour key={tour._id} tour={tour}></AllTour>) : tours.slice(0, 6)?.map(tour => <AllTour key={tour.id} tour={tour}></AllTour>)
         }
       </div>
       </div>

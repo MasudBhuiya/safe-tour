@@ -1,7 +1,6 @@
 
 [
     {
-        "id": 1,
         "name": "Sundarbans Mangrove Forest",
         "image": "https://img.freepik.com/free-photo/amazing-bengal-tiger-nature_475641-1255.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid",
         "duration": "3-5 Days",
@@ -70,7 +69,6 @@
         ]
     },
     {
-        "id": 2,
         "name": "Cox's Bazar Beach",
         "image": "https://img.freepik.com/premium-photo/tourists-beach-summer_7180-3065.jpg?ga=GA1.1.1591777397.1730875381&semt=ais_hybrid",
         "duration": "2-3 Days",
@@ -141,7 +139,6 @@
         ]
     },
     {
-        "id": 3,
         "name": "Srimangal",
         "image": "https://lh5.googleusercontent.com/p/AF1QipMqER_ySyCGfDGcnrUVEgXWNEMPFBUdeX4mD1Qw=w408-h306-k-no",
         "duration": "2 Days",
@@ -209,7 +206,6 @@
         ]
     },
     {
-        "id": 4,
         "name": "Saint Martin's Island",
         "image": "https://lh5.googleusercontent.com/p/AF1QipNr1KApi0Ed2UyDD2irf6neXpLVSRsGRzxI999G=w408-h244-k-no",
         "duration": "1-2 Days",
@@ -272,7 +268,6 @@
         ]
     },
     {
-        "id": 5,
         "name": "Rangamati",
         "image": "https://lh5.googleusercontent.com/p/AF1QipNjHrzVSJG4glLmnIJkm4dWSgbGhFn6Z-vI8XXZ=w426-h240-k-no",
         "duration": "2-3 Days",
@@ -335,7 +330,6 @@
         ]
     },
     {
-        "id": 6,
         "name": "Bandarban",
         "image": "https://lh5.googleusercontent.com/p/AF1QipOzVH1i30D3pcH9AeBaKf54l_gz_tNvIaPhrqk7=w408-h306-k-no",
         "duration": "3-4 Days",
@@ -396,7 +390,6 @@
         ]
     },
     {
-        "id": 7,
         "name": "Sylhet",
         "image": "https://lh5.googleusercontent.com/p/AF1QipMOSmm5GYddxOVCbC10Wp4Q350RIUtfUTyZjxnk=w427-h240-k-no",
         "duration": "2-3 Days",
@@ -459,9 +452,8 @@
         ]
     },
     {
-        "id": 8,
         "name": "Paharpur Buddhist Monastery",
-        "image": "https://lh5.googleusercontent.com/p/AF1QipMo3jHbbJivPSQfYQXJ8p-2kegg9PQVmOanBm5c=w408-h306-k-no",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNSXVe3Iyh1sUJJ9VA8Gs2CM6tcL5yurV6qIfWxr408WjB_SR2vxu-0xjJ-IQpwqleTPL&s",
         "duration": "1 Day",
         "price": {
     "adult": 500,
@@ -520,7 +512,6 @@
         ]
     },
     {
-        "id": 9,
         "name": "Kuakata",
         "image": "https://lh5.googleusercontent.com/p/AF1QipOXGaMOcZ2ZBuTnDOCKqE5CviH_EQwYdfFrmRkO=w426-h240-k-no",
         "duration": "2 Days",
@@ -587,7 +578,7 @@
         ]
     },
     {
-        "id": 10,
+
         "name": "Bagerhat",
         "image": "https://lh5.googleusercontent.com/p/AF1QipMgmrC_Gft64TKLY7rptLsRZrkn-fPruPoqtcVG=w426-h240-k-no",
         "duration": "1-2 Days",
@@ -648,7 +639,7 @@
         ]
     },
     {
-        "id": 11,
+
         "name": "Maheshkhali Island",
         "image": "https://lh5.googleusercontent.com/p/AF1QipO7vz84CB6r-wwvSTIafQs9I5rd-pM6OUWGbKwF=w408-h314-k-no",
         "duration": "1 Day",
@@ -711,7 +702,7 @@
         ]
     },
     {
-        "id": 12,
+
         "name": "Sonargaon",
         "image": "https://lh5.googleusercontent.com/p/AF1QipOgUabo4QLfqn4AUuN45uJvmSinjJ-iNM6ul_a7=w409-h240-k-no",
         "duration": "1 Day",
@@ -773,7 +764,7 @@
     },
 
     {
-        "id": 13,
+
         "name": "Jaflong",
         "image": "https://lh5.googleusercontent.com/p/AF1QipOhLZmEs2YvRComxuwFNOxWUNk7wsMPhBr5IO0I=w408-h258-k-no",
         "duration": "1 Day",
@@ -834,7 +825,7 @@
         ]
     },
     {
-        "id": 14,
+
         "name": "Chandranath Hill",
         "image": "https://media.gettyimages.com/id/1875763660/photo/a-view-of-chandranath-hill-in-sitakunda-chittagong-bangladesh-on-december-24-is-showing-the.jpg?s=612x612&w=0&k=20&c=b7_qhsJXWDgqCXRKJe92cEAXrMUZ8fs1Ec_RlYfXiEU=",
 
@@ -898,9 +889,9 @@
     },
     
     {
-        "id": 15,
+
         "name": "Puthia Temple Complex",
-        "image": "https://lh5.googleusercontent.com/p/AF1QipM7Yyo-SeklxNpVwpKS4gz7KXHZhEcpYoRNz4qk=w408-h306-k-no",
+        "image": "https://lh3.googleusercontent.com/proxy/aZvgAgEzlw8LeL0cA6N24Z8ULMCVqkhyGArSPoR0sWt67HBKcj5WJTkzPGBcYnxAKACRuxWDB6lFBxEWNDrNc3vT8mnewPruYmjIFFpy9kua_Ox0sHKzLnT7bfrIvWy_I0yZH3z-tnxR-gb9IfBYr6cnDvTjYEQ",
         "duration": "Half-Day",
         "price": {
     "adult": 500,
@@ -959,9 +950,9 @@
         ]
     },
     {
-        "id": 16,
+
         "name": "Foy's Lake",
-        "image": "https://lh5.googleusercontent.com/p/AF1QipM3HvS_-DdtIIRDaBiz_7NTFy4cMRWCPwHRb3Sy=w408-h297-k-no",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodt8Ap_ZuqQiEhaEP-W7neQh7I611QQ6jKA&s",
         "duration": "1 Day",
         "price": {
     "adult": 500,

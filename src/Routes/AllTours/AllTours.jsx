@@ -8,7 +8,7 @@ const AllTours = () => {
 
 
   useEffect(()=>{
-    fetch('/spots.json')
+    fetch('http://localhost:5000/spots')
     .then(res => res.json())
     .then(data => setTours(data))
   },[])
@@ -28,7 +28,7 @@ const AllTours = () => {
             </div>
             <section className='max-w-[1440px] mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 gap-6 md:grid-cols-3 justify-center items-center mt-28'>
                 {
-                  tours?.map(tour => <AllTour key={tour?.id} tour={tour}></AllTour>)
+                  tours?.map(tour => <AllTour key={tour?._id} tour={tour}></AllTour>)
                 }
             </section>
     </div>

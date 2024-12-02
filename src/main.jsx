@@ -22,6 +22,7 @@ import Register from './Routes/Register/Register';
 import AuthProvider, { AuthContext } from './Provider/AuthProvider';
 import Dashboard from './Dashboard/Dashboard';
 import Profile from './Dashboard/Profile/Profile';
+import PlaceDetails from './Routes/PlaceDetails/PlaceDetails';
 
 const router = createBrowserRouter([
   {
@@ -52,6 +53,11 @@ const router = createBrowserRouter([
     {
       path : 'alltour',
       element: <AllTours></AllTours>
+    },
+    {
+      path : 'details/:id',
+      element: <PlaceDetails></PlaceDetails>,
+      loader : ({params}) => fetch(`http://localhost:5000/spots/${params?.id}`)
     },
     {
       path : 'blog',

@@ -1,12 +1,15 @@
 import React from 'react';
 import './AllTour.css';
+import { Link } from 'react-router-dom';
 
 const AllTour = ({tour}) => {
+
+  // console.log(tour)
   return (
     <div className=''>
       
 
-      <div className='alltourcard'>
+      <Link to={`/details/${tour?._id}`} className='alltourcard' >
       <div className="card bg-base-100 flex flex-col  w-96 sm:w-72 md:w-full shadow-xl">
   <figure>
     <img className='w-full p-3 h-[250px] lg:h-[400px] rounded-lg '
@@ -27,7 +30,7 @@ const AllTour = ({tour}) => {
       
 
 
-      </div>
+      </Link>
     </div>
   );
 };
