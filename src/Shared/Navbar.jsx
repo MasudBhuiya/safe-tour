@@ -11,7 +11,7 @@ const Navbar = () => {
       .then((data) => { });
   };
   return (
-    <div className='max-w-[1440px] mx-auto h-0 px-4'>
+    <div className='max-w-[1440px] mx-auto z-50 h-0 px-4'>
       <div className="navbar bg-base-100">
   <div className="navbar-start">
     <div className="dropdown">
@@ -31,7 +31,7 @@ const Navbar = () => {
       </div>
       <ul
         tabIndex={0}
-        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 font-semibold shadow">
+        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[50] mt-3 w-52 p-2 font-semibold shadow">
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/destinations'>Destinatios</Link></li>

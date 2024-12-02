@@ -12,7 +12,7 @@ const AllTour = ({tour}) => {
       <Link to={`/details/${tour?._id}`} className='alltourcard' >
       <div className="card bg-base-100 flex flex-col  w-96 sm:w-72 md:w-full shadow-xl">
   <figure>
-    <img className='w-full p-3 h-[250px] lg:h-[400px] rounded-lg '
+    <img className='w-full h-64 object-cover transition-transform duration-300 hover:scale-105'
       src={tour?.image}
       alt="Shoes" />
   </figure>
